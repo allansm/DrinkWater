@@ -114,9 +114,7 @@ public class FormCad extends javax.swing.JFrame {
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         run();
     }//GEN-LAST:event_jButton1ActionPerformed
-    /*public static void main(String[] args){
-        new FormCad().setVisible(true);
-    }*/
+    
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JPasswordField cpassword;
